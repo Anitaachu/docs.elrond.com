@@ -23,14 +23,24 @@
       "validators/system-requirements",
       {
         "type": "subcategory",
+        "label": "Install a Mainnet Node",
+        "ids": [
+          "validators/mainnet/config-scripts",
+          "validators/mainnet/install-update",
+          "validators/mainnet/optional-configs",
+          "validators/mainnet/use-docker"
+        ]
+      },
+      {
+        "type": "subcategory",
         "label": "Install a Validator Node",
         "ids": [
           "validators/config-scripts",
           "validators/install-update"
+          "validators/manage-node",
+          "validators/use-docker",
         ]
       },
-       "validators/manage-node",
-       "validators/use-docker-devnet",
       {
         "type": "subcategory",
         "label": "Manage your keys",
