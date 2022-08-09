@@ -49,3 +49,9 @@ Enter the token name, a ticker, the mint amount, and the number of decimals. Nex
 Select the token you wish to transfer and click ***send*** to complete the transfer.
 
 ![transfer_token](https://user-images.githubusercontent.com/52820835/183435369-3aaff004-926c-4691-98d1-cabb21441cf4.png)
+
+<img width="1440" alt="8B4D016C-FF57-45A3-91CC-4A9DF78E0E48" src="https://user-images.githubusercontent.com/52820835/183673206-d4e5809b-c1ff-41ae-8bef-afafb9f91157.png">
+
+
+![nft_token](https://user-images.githubusercontent.com/52820835/183673206-d4e5809b-c1ff-41ae-8bef-afafb9f91157.png)
+
